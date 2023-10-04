@@ -9,3 +9,6 @@ npm run dev
 ```
 
 Open your browser to localhost:8080 to connect. Open another browser tab and see two clients connected at the same time.
+
+# TODO
+- [ ] Figure out how to integrate websocket connections and express or client-side routes
